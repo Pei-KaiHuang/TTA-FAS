@@ -1,7 +1,8 @@
 # TTA-FAS
 ### [Test-Time Adaptation for Robust Face Anti-Spoofing (BMVC'23)](https://bmvc2022.mpi-inf.mpg.de/0239.pdf)
 
-## Test-time Setting 
+(This is the first work focusing on addressing test-time adaptation for face anti-spoofing)
+## Fully Test-time Setting 
 ![Screenshot](figures/TTA_setting.png) 
 
 ## Network Architecture
