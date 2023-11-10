@@ -18,6 +18,13 @@
 ### Protocol 2
 ![Screenshot](figures/Protocol_2.png)
 
+## Performance
+### Protocol 1
+![Screenshot](figures/Performance1.png)
+
+### Protocol 2
+![Screenshot](figures/Performance2.png)
+
 ## Citation
 
 Please cite our paper using:
