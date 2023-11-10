@@ -1,0 +1,5 @@
+scikit-learn
+pytz
+info-nce-pytorch
+matplotlib
+grad-cam==1.3.6
