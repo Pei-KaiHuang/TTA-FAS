@@ -16,5 +16,14 @@
 ### Protocol 2
 ![Screenshot](figures/Protocol_2.png)
 
+## Citation
 
+Please cite our paper using:
+
+```
+@article{
+}
+```
+
+## Pretrained Weights
 https://drive.google.com/drive/folders/14O3VgBhnEhnTSxsdMDPwc1xyFVTBVtRW?usp=drive_link
