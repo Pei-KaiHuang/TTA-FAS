@@ -30,8 +30,12 @@
 Please cite our paper using:
 
 ```
-@article{
-}
+@inproceedings{huang2022learnable,
+  title={Test-Time Adaptation for Robust Face Anti-Spoofing},
+  author={Huang, Pei-Kai and  Lu, Chen-Yu and Chang, Shu-Jung and Chong, Jun-Xiong and  Hsu, Chiou-Ting},
+  booktitle={BMVC}, 
+  year={2023}
+} 
 ```
 
 ## Pretrained Weights
