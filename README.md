@@ -30,7 +30,7 @@
 Please cite our paper using:
 
 ```
-@inproceedings{huang2022test,
+@inproceedings{huang2023test,
   title={Test-Time Adaptation for Robust Face Anti-Spoofing},
   author={Huang, Pei-Kai and  Lu, Chen-Yu and Chang, Shu-Jung and Chong, Jun-Xiong and  Hsu, Chiou-Ting},
   booktitle={BMVC}, 
