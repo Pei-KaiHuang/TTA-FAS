@@ -27,7 +27,7 @@
 
 ## Citation
 
-Please cite our paper using:
+Please cite our paper using, thank you:
 
 ```
 @inproceedings{huang2023test,
